@@ -64,38 +64,68 @@ https://www.canva.com/design/DAFRZyErrBk/l2CEOO3tlSjgnNpDabNbgg/view?utm_content
 
 1.Exprese cada uno de los números siguientes en notación científica:
 
+[![hhh.jpg](https://i.postimg.cc/ZR5QWcNn/hhh.jpg)](https://postimg.cc/67FcSCYx)
+
 3. Exprese cada uno de los números siguientes en notación científica:
+
+[![3.jpg](https://i.postimg.cc/VkL1qjXy/3.jpg)](https://postimg.cc/vcjpMxPX)
 
 5. Exprese cada uno de los números siguientes en notación científica:
 
+[![5.jpg](https://i.postimg.cc/ZKjz5C2w/5.jpg)](https://postimg.cc/bsGB6Nzn)
+
 7. Exprese cada uno de los números siguientes como un número decimal regular:
+
+[![7.jpg](https://i.postimg.cc/2ywMyKc1/7.jpg)](https://postimg.cc/hQXp3pqn)
 
 9. Sume los números siguientes:
 
+[![9.jpg](https://i.postimg.cc/Fz9CMxrN/9.jpg)](https://postimg.cc/ph6B8z56)
+
 11. Realice las siguientes multiplicaciones:
+
+[![11.jpg](https://i.postimg.cc/wvzwNksL/11.jpg)](https://postimg.cc/HJS0DXzk)
 
 **SECCIÓN 1–3 NOTACIÓN DE INGENIERÍA Y PREFIJOS MÉTRICOS**
 
 13. Exprese cada uno de los números siguientes en notación de ingeniería:
 
+[![13.jpg](https://i.postimg.cc/hjM1dRnR/13.jpg)](https://postimg.cc/ftt9GFk8)
+
 15. Exprese cada número en notación de ingeniería:
+
+[![15.jpg](https://i.postimg.cc/QM3QYdxr/15.jpg)](https://postimg.cc/zyxHV5gd)
 
 17. Sume los números siguientes y exprese cada resultado en notación de ingeniería:
 
+[![17.jpg](https://i.postimg.cc/7hf0JCXS/17.jpg)](https://postimg.cc/dZcLzVb0)
+
 19. Divida los números siguientes y exprese cada resultado en notación de ingeniería:
+
+[![19.jpg](https://i.postimg.cc/q7w3mc58/19.jpg)](https://postimg.cc/xkk88mYC)
 
 21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.
 
+[![21.jpg](https://i.postimg.cc/4xTHsFC6/21.jpg)](https://postimg.cc/LnN8VD85)
+
 23. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
 
+[![23.jpg](https://i.postimg.cc/Y0WjwQbD/23.jpg)](https://postimg.cc/QKjjQKLc)
+
 25. Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:
+
+[![25.jpg](https://i.postimg.cc/SKxLCNSQ/25.jpg)](https://postimg.cc/rD7tLTR7)
 
 
 **SECCIÓN 1–4 CONVERSIONES DE UNIDADES MÉTRICAS**
 
 27. Realice las conversiones indicadas:
 
+[![27.jpg](https://i.postimg.cc/gkbv4KzT/27.jpg)](https://postimg.cc/V54rknbq)
+
 29. Sume las siguientes cantidades:
+
+[![29.jpg](https://i.postimg.cc/LXZ13JrS/29.jpg)](https://postimg.cc/r0Ms8wVZ)
 
 
 **EJERCICIOS CAPITULO - 2**
