@@ -17,11 +17,13 @@ Establecer medidas de seguridad, al trabajar con unidades eléctricas, y tener c
 
 **2. MARCO TEÓRICO (RESUMEN)**
 
-RESUMEN CAPITULO - 1
+https://www.canva.com/design/DAFRZyErrBk/l2CEOO3tlSjgnNpDabNbgg/view?utm_content=DAFRZyErrBk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+**RESUMEN CAPITULO - 1**
 
 [![1.png](https://i.postimg.cc/NMk0Yf4w/1.png)](https://postimg.cc/jwCT4Tm8) 
 
-RESUMEN CAPITULO - 2
+**RESUMEN CAPITULO - 2**
 
 [![2.png](https://i.postimg.cc/W3WQ0Bpk/2.png)](https://postimg.cc/N9XJcPHs)
 
@@ -29,12 +31,13 @@ RESUMEN CAPITULO - 2
 
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
-EJERCICIOS CAPITULO - 1
+**EJERCICIOS CAPITULO - 1**
 
 [![Ejercicios-Impares-CAPITULO-1-Lig-a-Cristopher-2.png](https://i.postimg.cc/BvhD3pQg/Ejercicios-Impares-CAPITULO-1-Lig-a-Cristopher-2.png)](https://postimg.cc/947ztG9R)
 
-EJERCICIOS CAPITULO - 2
+**EJERCICIOS CAPITULO - 2**
 
+[![Segundo-Capitulo-Lig-a-Cristopher-Ejercicios.png](https://i.postimg.cc/FFL0wwwF/Segundo-Capitulo-Lig-a-Cristopher-Ejercicios.png)](https://postimg.cc/7bqC2txj)
 
 
 **4. VIDEO**
