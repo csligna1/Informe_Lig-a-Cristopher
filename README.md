@@ -20,6 +20,7 @@ Establecer medidas de seguridad, al trabajar con unidades eléctricas, y tener c
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 
+
 **4. VIDEO**
 
 https://youtu.be/6s15AGQGZSA 
