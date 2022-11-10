@@ -19,6 +19,7 @@ Establecer medidas de seguridad, al trabajar con unidades eléctricas, y tener c
 
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
+(https://github.com/csligna1/Informe_Lig-a-Cristopher/blob/c8f8aa16fb6e8ceab8a5386665591f35e22b3ee9/Ejercicios%20Impares_CAPITULO%201_Lig%C3%B1a%20Cristopher%20(2).png)
 
 **4. VIDEO**
 
